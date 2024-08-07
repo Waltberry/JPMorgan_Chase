@@ -27,3 +27,6 @@ venv
 # Ignore all .dist files and folders
 *.dist
 .dist/
+
+.idea/
+target/
