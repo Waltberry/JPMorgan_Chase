@@ -7,3 +7,6 @@ Welcome to my JPMorgan Chase & Co. Job Simulations repository! This repository c
 - **Agile**
 - **Software Engineering**
 - **Software Engineering Lite**
+- **Quantitative Research**
+- **Excel Skills**
+- **Investment Banking**
