@@ -24,6 +24,7 @@ yarn-error.log*
 
 venv
 .venv
+jpenv/
 # Ignore all .dist files and folders
 *.dist
 .dist/
